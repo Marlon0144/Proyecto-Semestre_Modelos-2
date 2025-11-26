@@ -22,5 +22,5 @@ Notebook con el entrenamiento y evaluación de los modelos supervisados:
     Selección de los dos mejores modelos para análisis posterior.
 
 ### Video explicativo final
-    url: https://drive.google.com/file/d/1b1pUbiGY_OpjKffiSsIYHEOVtBS0Lo2P/view?usp=drive_link
+    https://drive.google.com/file/d/1b1pUbiGY_OpjKffiSsIYHEOVtBS0Lo2P/view?usp=drive_link
     
